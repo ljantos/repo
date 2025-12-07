@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-ns/sparkle">
+  <channel>
+    <title>OBSDOC // Updates</title>
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:releaseNotesLink>https://example.com/release-notes.html</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://repo.obsdoc.hochx.net/windows/obsdoc.setup.zip"
+        sparkle:version="1.1"
+        length="1234567"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
